@@ -87,3 +87,4 @@ if not os.path.exists('templates'):
 
 if __name__ == '__main__':
     app.run(debug=True) 
+app=app
